@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Bence<br>A passionate developer always eager to learn and build cool things
+# Hi 👋, I'm Bence:
+A passionate developer always eager to learn and build cool things
 
 
 # 💻 Tech Stack:
